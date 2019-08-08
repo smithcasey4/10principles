@@ -13,7 +13,7 @@ body {
     width: 100%;
    position: fixed;
    top: 0;
-   background-color: rgba(0,0,0, 0.0); 
+   background-color: rgba(217,217,217, 1.0); 
 }
 
 .nav-title {
@@ -134,18 +134,13 @@ body {
     text-align: center;
 }
 
-.input {
-    /* float: right; */
-    display: inline;
-}
-
 .social {
     position: relative;
     height: 40px;
     width: 220px;
     left: -195px;
     background-color: rgb(165, 165, 165);
-    /* overflow: hidden; */
+
     display: inline-block;
 }
 
@@ -166,7 +161,7 @@ body {
 .fa-twitter {
     color: rgb(0, 0, 0);
 }
-.fa-facebook {
+.fa-facebook-f {
     color: rgb(0, 0, 0);
 }
 
